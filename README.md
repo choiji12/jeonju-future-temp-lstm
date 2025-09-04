@@ -61,3 +61,11 @@
 </p>
 <br>
 
+## ⚙️ 기술 및 라이브러리
+
+- Language - Python  
+- Data Handling - Pandas, NumPy, itertools  
+- Machine Learning - scikit-learn, PyTorch  
+- Visualization - Matplotlib
+
+
