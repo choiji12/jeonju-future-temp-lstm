@@ -69,6 +69,8 @@
 - Machine Learning - scikit-learn, PyTorch  
 - Visualization - Matplotlib
 
+<br>
+
 ## 📎 참고 자료
 해당 README는 요약본이며, 자세한 설계 문서 및 이미지 자료는 아래 첨부 문서에서 확인 가능합니다.
 
