@@ -1,4 +1,4 @@
-![image.png](attachment:80dac4cc-0c5d-4c99-9786-d45541d66a09:image.png)
+![썸네일](.image/image.png)
 
 # 🌡️ LSTM 기반 전주시 미래 평균 온도 예측
 
