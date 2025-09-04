@@ -24,7 +24,10 @@
 - 범위: 최고 32.1℃, 최저 -12.4℃  
 - 스케일링: Min-Max Normalization (1도 차이 = 0.02247)
   
-![데이터](./image/data.png)
+<p align="left">
+  <img src="./image/data.png" width="750" alt="데이터셋"/>
+</p>
+
 <br>
 
 ## 🔧 모델 & 하이퍼파라미터
@@ -46,11 +49,15 @@
 ## 🏆 성능 평가
 - **지표**: RMSE (Root Mean Squared Error)  
 - **최종 Loss**: 0.0026  
-![loss](./image/loss.png)
+<p align="left">
+  <img src="./image/loss.png" width="750" alt="Loss 그래프"/>
+</p>
 
 **예측 결과 (2024-12-02):**  
 - Predicted Temperature: **9.34°C**  
 - Actual Temperature: **10.04°C**
-- ![예측](./image/predicted.png)
+<p align="left">
+  <img src="./image/predicted.png" width="750" alt="예측 결과"/>
+</p>
 <br>
 
