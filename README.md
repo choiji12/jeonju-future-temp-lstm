@@ -1,3 +1,5 @@
+![image.png](attachment:80dac4cc-0c5d-4c99-9786-d45541d66a09:image.png)
+
 # 🌡️ LSTM 기반 전주시 미래 평균 온도 예측
 
 > **목표**: LSTM(Long Short-Term Memory) 모델을 활용하여 전주시의 미래 평균 기온을 예측하는 프로젝트입니다.  
